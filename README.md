@@ -1,2 +1,3 @@
-28/April/2026
+# ⭐ Daily entries:
+### 28/April/2026
 - python_basics.py & hw1_tokyo.py
