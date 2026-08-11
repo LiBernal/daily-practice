@@ -7,3 +7,6 @@
 
 **13/May/2026**
 - currency.py
+
+**10/Ago/2026**
+- flower.py (learned how to make a simple flower with turtle(library))
