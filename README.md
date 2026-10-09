@@ -10,3 +10,6 @@
 
 **10/Ago/2026**
 - flower.py (learned how to make a simple flower with turtle(library))
+
+**08/Oct/2026**
+- hw1.py - tarea de GCI World Tokyo - Función que tome un array 1D NumPy de números enteros y devuelva un array que contiene elementos que son múltiplos de 5 y deja un residuo de 1 cuando se divide por 2.
